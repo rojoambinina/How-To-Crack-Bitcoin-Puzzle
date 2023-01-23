@@ -2,7 +2,7 @@
 
 When I was looking for my private key online, I came across the result of my research on this website www.privatekeys.pw and what was funny, when I typed my private key on the search form, the platform returned 6 privates keys found including mine, WoW, they have everything.
 
-In the tools menu, many people desperately use the online scanner tool and scan billions and billions of keys using the database at https://privatekeys.pw/scanner and no one still finds the correct private key hex of **puzzle #66**, while 9,223,372,036,854,775,808 keys need to crack puzzle #64, to solve this riddle is may be to specify a minimum start number of 10,000,000,000,000,000,000 and a maximum stop number of 100,000,000,000,000,000,000,000,000 to get the 17 or 18 last characters of the Hex private key.
+In the tools menu, many people desperately use the online scanner tool and scan billions and billions of keys using the database at https://privatekeys.pw/scanner and no one still finds the correct private key hex of **#66 puzzle address**, while 9,223,372,036,854,775,808 keys required to crack #64 address, to solve this riddle is may be to specify a minimum start number of 10,000,000,000,000,000,000 and a maximum stop number of 100,000,000,000,000,000,000,000,000 to get the 17 or 18 last characters of the Hex private key.
 
 ## What is a Bitcoin puzzle?
 
