@@ -84,7 +84,7 @@ def seek(r):
                 colour_cyan = '\033[36m'
                 colour_reset = '\033[0;0;39m'
                 colour_red = '\033[31m'
-                print (colour_cyan + seconds_to_str() + colour_red + "-----Good--Luck--Happy--Hunting--Mizogg.co.uk-----" + colour_cyan + myhex, end='\r'  + colour_reset) # Running Display Output
+                print (colour_cyan + seconds_to_str() + colour_red + " -----Sequential Search for Bitcoin Puzzle Wallets----- " + colour_cyan + myhex, end='\r'  + colour_reset) # Running Display Output
 
 
 
