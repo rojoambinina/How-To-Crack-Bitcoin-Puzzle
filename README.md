@@ -1,6 +1,6 @@
 # BITCOIN PUZZLE
 
-When I was looking for my private key online, I came across the result of my search on the website www.privatekeys.pw and what is funny, when I typed my private key on the search form, the platform returned 6 private keys found including mine, ai ai ai, they have everything.
+When I was looking for my private key online, I came across the result of my search on this website www.privatekeys.pw and what is funny, when I typed my private key on the search form, the platform returned 6 private keys found including mine, ai ai ai, they have everything.
 
 Many also use the online scanner tool and scan billions and billions of keys using the database at https://privatekeys.pw/scanner and no one still finds the correct private key hex of the puzzle #66, the solution may be to specify a minimum start number with 10,000,000,000,000,000,000 and stop at the maximum number with 100,000,000,000,000,000,000,000,000 to get the 17 and 18 last characters of the Hex private key.
 
