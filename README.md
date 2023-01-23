@@ -1,4 +1,4 @@
-# BITCOIN PUZZLE
+# HOW TO CRACK BITCOIN PUZZLE
 
 When I was looking for my private key online, I came across the result of my research on this website www.privatekeys.pw and what was funny, when I typed my private key on the search form, the platform returned 6 privates keys found including mine, ai ai ai, they have everything.
 
