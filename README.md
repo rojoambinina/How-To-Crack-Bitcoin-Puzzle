@@ -4,7 +4,7 @@ When I was looking for my private key online, I came across the result of my res
 
 In the tools menu, many people desperately use the online scanner tool and scan billions and billions of keys using the database at https://privatekeys.pw/scanner and no one still finds the correct private key hex of **#66 puzzle address**, while 9,223,372,036,854,775,808 keys required to crack #64 address, to solve this riddle is may be to specify a minimum start number of 10,000,000,000,000,000,000 and a maximum stop number of 100,000,000,000,000,000,000,000,000 to get the 17 or 18 last characters of the Hex private key.
 
-## What is a Bitcoin puzzle?
+## What is a Bitcoin Puzzle?
 
 In 2015, in order to show the hugeness of the private key space (or maybe just for fun), someone created a “puzzle” where he chose keys in a certain smaller space and sent increasing amounts to each of those keys like this:
 
