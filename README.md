@@ -57,7 +57,7 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchBitcoinETH.py**
 
-## Random Search for Bitcoin With Balance Checker
+## Random Search for Bitcoin with Balance Checker
 ![RandomSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214026909-f929d469-c37b-4e82-93b9-ceedbf73a798.png)
 
 When you run RandomSearchBitcoinBalance.py you must specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
@@ -66,7 +66,7 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py RandomSearchBitcoinBalance.py**
 
-## Sequential search for Bitcoin Wallet With Balance Checker
+## Sequential search for Bitcoin Wallet with Balance Checker
 ![SequentialSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214027464-ecbf7ac5-58f9-416f-8112-0dba2325e4c0.png)
 
 When you run SequentialSearchBitcoinBalance.py you must also specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
