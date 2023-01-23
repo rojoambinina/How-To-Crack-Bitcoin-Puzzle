@@ -82,7 +82,7 @@ And to run the code in your terminal, you need to type these commands below:
 **py SequentialSearchBitcoinBalance.py**
 
 
-## Use:
+## Install modules
 To be able to use these codes, you must install all the modules just by typing in your terminal the command below:
 
 **pip3 install bit chainside-btcpy** 
