@@ -23,7 +23,7 @@ To answer your question, we are going to use codes made with python, and there a
 
 ### Random Search Puzzle
 Random Search for Bitcoin Puzzle Wallets
-Because I am a nice guy, I have already prepared the list of puzzle bitcoin addresses that are not yet found in the puzzle.txt file.
+Because I am a nice guy, I have already prepared the list of puzzle bitcoin addresses that are not yet found in the **puzzle.txt** file.
 
 And when you run the code in your terminal, you need to type these commands below:
 
@@ -46,7 +46,7 @@ To run the code in your terminal, you need to type these commands below:
 
 ### Random Search Bitcoin and ETH
 Random Search for Bitcoin and ETH Puzzle Wallets
-Because I am still generous, I have already prepared a mix file of Bitcoin and Ethereum addresses for you, you only have to download the BtcEthList.txt file
+Because I am still generous, I have already prepared a mix file of Bitcoin and Ethereum addresses for you, you only have to download the **BtcEthList.txt** file.
 
 And to run the code in your terminal, you need to type these commands below:
 
@@ -93,6 +93,6 @@ And to run the code in your terminal, you need to type these commands below:
 ## Use:
 To be able to use these codes, you must install all the modules just by typing in your terminal the command below:
 
-### pip3 install bit chainside-btcpy 
+**pip3 install bit chainside-btcpy** 
 or 
-### pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]
+**pip3 install bit chainside-btcpy eth_keys eth-hash[pycryptodome]**
