@@ -61,7 +61,7 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchBitcoinETH.py**
 
-## Random Search Bitcoin Balance
+## Random Search Bitcoin with Balance
 ![RandomSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214026909-f929d469-c37b-4e82-93b9-ceedbf73a798.png)
 
 Random Search for Bitcoin With Balance Checker
@@ -71,7 +71,7 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py RandomSearchBitcoinBalance.py**
 
-## Sequential Search Bitcoin Balance
+## Sequential Search Bitcoin with Balance
 ![SequentialSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214027464-ecbf7ac5-58f9-416f-8112-0dba2325e4c0.png)
 
 Sequential search for Bitcoin Wallet With Balance Checker
