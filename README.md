@@ -8,6 +8,13 @@ In the tools menu, many people desperately use the online scanner tool and scan 
 
 In 2015, in order to show the hugeness of the private key space (or maybe just for fun), someone created a “puzzle” where he chose keys in a certain smaller space and sent increasing amounts to each of those keys like this:
 
+20 ≤ random key < 21 — 0.001 BTC      
+21 ≤ random key < 22 — 0.002 BTC      
+23 ≤ random key < 23 — 0.003 BTC        
+…           
+2255 ≤ random key < 2256 — 0.256 BTC         
+(total 32.896 BTC)        
+
 As of June 2020, first 63 and #65, #70, #75, #80, #85, #90, #95, #100, #105, #110, #115 addresses have been cracked.
 
 Check for yourself on the website https://privatekeys.pw/puzzles/bitcoin-puzzle-tx and some private keys have already been found, but others have yet to be calculated. But you wonder how do we calculate this bitcoin puzzle to obtain the private key and be able to transfer the balance.
