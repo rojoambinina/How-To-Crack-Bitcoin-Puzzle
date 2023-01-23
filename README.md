@@ -13,6 +13,7 @@ In 2015, in order to show the hugeness of the private key space (or maybe just f
 23 ≤ random key < 23 — 0.003 BTC
 …
 2255 ≤ random key < 2256 — 0.256 BTC
+
 (total 32.896 BTC)
 
 As of June 2020, first 63 and #65, #70, #75, #80, #85, #90, #95, #100, #105, #110, #115 addresses have been cracked.
