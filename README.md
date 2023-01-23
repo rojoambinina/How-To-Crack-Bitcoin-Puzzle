@@ -2,7 +2,7 @@
 
 When I was looking for my private key online, I came across the result of my research on this website www.privatekeys.pw and what was funny, when I typed my private key on the search form, the platform returned 6 privates keys found including mine, WoW, they have everything.
 
-In the tools menu, many people desperately use the online scanner tool and scan billions and billions of keys using the database at https://privatekeys.pw/scanner and no one still finds the correct private key hex of **puzzle #66**, the solution may be to specify a minimum start number of 10,000,000,000,000,000,000 and a maximum stop number of 100,000,000,000,000,000,000,000,000 to get the 17 or 18 last characters of the Hex private key.
+In the tools menu, many people desperately use the online scanner tool and scan billions and billions of keys using the database at https://privatekeys.pw/scanner and no one still finds the correct private key hex of **puzzle #66**, while 9,223,372,036,854,775,808 keys need to crack puzzle #64, to solve this riddle is may be to specify a minimum start number of 10,000,000,000,000,000,000 and a maximum stop number of 100,000,000,000,000,000,000,000,000 to get the 17 or 18 last characters of the Hex private key.
 
 ## What is a Bitcoin puzzle?
 
@@ -15,7 +15,7 @@ In 2015, in order to show the hugeness of the private key space (or maybe just f
 2255 ≤ random key < 2256 — 0.256 BTC
 (total 32.896 BTC)
 
-As of June 2020, first 63 and #65, #70, #75, #80, #85, #90, #95, #100, #105, #110, #115 addresses have been cracked. People are still trying to crack #64 address, which requires scanning 9,223,372,036,854,775,808 keys.
+As of June 2020, first 63 and #65, #70, #75, #80, #85, #90, #95, #100, #105, #110, #115 addresses have been cracked.
 
 Check for yourself on the website https://privatekeys.pw/puzzles/bitcoin-puzzle-tx and some private keys have already been found, but others have yet to be calculated. But you wonder how do we calculate this bitcoin puzzle to obtain the private key and be able to transfer the balance.
 
