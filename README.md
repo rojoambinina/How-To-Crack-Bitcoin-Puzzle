@@ -22,6 +22,7 @@ Check for yourself on the website https://privatekeys.pw/puzzles/bitcoin-puzzle-
 To answer to this question, we are going to use codes made with python, and there are 6 differents ways to calculate bitcoin addresse puzzle:
 
 ### Random Search Puzzle
+![RandomSearchPuzzle](https://user-images.githubusercontent.com/89576432/214027314-3370a890-054f-4997-b19e-c80cb633e93d.png)
 Random Search for Bitcoin Puzzle Wallets
 Because I am a nice guy, I have already prepared the list of puzzle bitcoin addresses that are not yet found in the **puzzle.txt** file.
 
@@ -29,10 +30,8 @@ And when you run the code in your terminal, you need to type these commands belo
 
 **py RandomSearchPuzzle.py**
 
-
-
-
 ### Sequential Search Puzzle
+![SequentialSearchPuzzle](https://user-images.githubusercontent.com/89576432/214027761-a9a7eebf-0d5c-467f-aca4-532dc6d611bf.png)
 Sequential Search for Bitcoin Puzzle Wallets
 When you run SequentialSearchPuzzle.py, you must specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
 
@@ -40,11 +39,8 @@ To run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchPuzzle.py**
 
-
-
-
-
 ### Random Search Bitcoin and ETH
+![RandomSearchBitcoinETH](https://user-images.githubusercontent.com/89576432/214027114-a51c3f80-802c-41af-810e-7f1d1d1be269.png)
 Random Search for Bitcoin and ETH Puzzle Wallets
 Because I am still generous, I have already prepared a mix file of Bitcoin and Ethereum addresses for you, you only have to download the **BtcEthList.txt** file.
 
@@ -52,11 +48,8 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py RandomSearchBitcoinETH.py**
 
-
-
-
-
 ### Sequential Search Bitcoin and ETH
+![SequentialSearchBitcoinETH](https://user-images.githubusercontent.com/89576432/214027626-22821319-427b-42cd-b270-93b43ad746c2.png)
 Sequential Search for Bitcoin and ETH Puzzle Wallets
 To use the code, you must specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
 
@@ -64,11 +57,8 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchBitcoinETH.py**
 
-
-
-
-
 ### Random Search Bitcoin Balance
+![RandomSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214026909-f929d469-c37b-4e82-93b9-ceedbf73a798.png)
 Random Search for Bitcoin With Balance Checker
 When you run RandomSearchBitcoinBalance.py you must specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
 
@@ -76,18 +66,14 @@ And to run the code in your terminal, you need to type these commands below:
 
 **py RandomSearchBitcoinBalance.py**
 
-
-
-
 ### Sequential Search Bitcoin Balance
+![SequentialSearchBitcoinBalance](https://user-images.githubusercontent.com/89576432/214027464-ecbf7ac5-58f9-416f-8112-0dba2325e4c0.png)
 Sequential search for Bitcoin Wallet With Balance Checker
 When you run SequentialSearchBitcoinBalance.py you must also specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
 
 And to run the code in your terminal, you need to type these commands below:
 
 **py SequentialSearchBitcoinBalance.py**
-
-
 
 
 ## Use:
