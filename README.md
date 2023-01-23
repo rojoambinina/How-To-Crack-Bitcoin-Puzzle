@@ -21,48 +21,48 @@ Check for yourself on the website https://privatekeys.pw/puzzles/bitcoin-puzzle-
 
 To answer your question, we are going to use codes made with python, and there are 6 differents ways to calculate bitcoin addresse puzzle:
 
-RandomSearchPuzzle.py
+## Random Search Puzzle
 Random Search for Bitcoin Puzzle Wallets
 Because I am a nice guy, I have already prepared the list of puzzle bitcoin addresses that are not yet found in the puzzle.txt file.
 
 And when you run the code in your terminal, you need to type these commands below:
 
-py RandomSearchPuzzle.py
+**py RandomSearchPuzzle.py**
 
 
 
 
-SequentialSearchPuzzle.py
+## Sequential Search Puzzle
 Sequential Search for Bitcoin Puzzle Wallets
 When you run SequentialSearchPuzzle.py, you must specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
 
 To run the code in your terminal, you need to type these commands below:
 
-py SequentialSearchPuzzle.py
+**py SequentialSearchPuzzle.py**
 
 
 
 
 
-RandomSearchBitcoinETH.py
+## Random Search Bitcoin and ETH
 Random Search for Bitcoin and ETH Puzzle Wallets
 Because I am still generous, I have already prepared a mix file of Bitcoin and Ethereum addresses for you, you only have to download the BtcEthList.txt file
 
 And to run the code in your terminal, you need to type these commands below:
 
-py RandomSearchBitcoinETH.py
+**py RandomSearchBitcoinETH.py**
 
 
 
 
 
-SequentialSearchBitcoinETH.py
+##Sequential Search Bitcoin and ETH
 Sequential Search for Bitcoin and ETH Puzzle Wallets
 To use the code, you must specify a minimum start number and a maximum stop number to have a good calculation and then the program generates the bitcoin addresses and private key.
 
 And to run the code in your terminal, you need to type these commands below:
 
-py SequentialSearchBitcoinETH.py
+**py SequentialSearchBitcoinETH.py**
 
 
 
