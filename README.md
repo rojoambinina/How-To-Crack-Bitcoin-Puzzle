@@ -19,7 +19,7 @@ As of June 2020, first 63 and #65, #70, #75, #80, #85, #90, #95, #100, #105, #11
 
 Check for yourself on the website https://privatekeys.pw/puzzles/bitcoin-puzzle-tx and some private keys have already been found, but others have yet to be calculated. But you wonder how do we calculate this bitcoin puzzle to obtain the private key and be able to transfer the balance.
 
-To answer to this question, we are going to use codes made with python, and there are 6 differents ways to calculate bitcoin addresse puzzle:
+To answer to this question, we are going to use codes made with python, and there are 6 differents ways to calculate bitcoin address puzzle:
 
 ## Random Search for Bitcoin Puzzle Wallets
 ![RandomSearchPuzzle](https://user-images.githubusercontent.com/89576432/214027314-3370a890-054f-4997-b19e-c80cb633e93d.png)
